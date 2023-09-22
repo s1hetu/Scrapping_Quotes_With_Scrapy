@@ -76,7 +76,7 @@ custom_settings = {
 ```
 
 
-1. Quotes Spider
+Quotes Spider
 ```
 url : https://quotes.toscrape.com/
 spider_file : spiders/quotes_spider.py
